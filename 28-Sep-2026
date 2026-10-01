@@ -1,0 +1,29 @@
+# 📚 DSA Learning Log
+
+## 🔤 String Revision
+
+* Revised important string concepts and patterns.
+* Solved **8 string revision questions**.
+* Revised common string manipulation and problem-solving techniques.
+
+## 🔍 KMP Algorithm
+
+* Studied the **KMP (Knuth–Morris–Pratt) string matching algorithm**.
+* Understood the **LPS (Longest Prefix Suffix)** array.
+* Learned how KMP avoids unnecessary comparisons during pattern matching.
+* Revised the time complexity: **O(n + m)**.
+
+## 🌐 Graph Revision
+
+* Revised graph concepts and standard problem-solving patterns.
+* Solved **30 graph revision questions**.
+* Practiced graph traversal and commonly used graph algorithms.
+* Revised concepts related to **BFS, DFS, shortest paths, and graph representation**.
+
+## 📊 Summary
+
+* **String Revision:** 8 questions
+* **KMP:** Algorithm + LPS revision
+* **Graph Revision:** 30 questions
+
+**Focus:** Strengthening DSA concepts through revision and problem solving.
